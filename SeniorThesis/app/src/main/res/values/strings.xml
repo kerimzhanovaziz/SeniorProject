@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SeniorThesis</string>
+    <string name="flight_mode">Flight mode</string>
+    <string name="connect_to_the_aircraft">Connect to the aircraft</string>
+    <string name="choose_the_mode">Choose the mode</string>
+    <string name="welcome_to_droneapp">Welcome to DroneApp</string>
+    <string name="remote_controller">Remote controller</string>
+    <string name="title_activity_waypoints">Map</string>
+    <string name="clear">Clear</string>
+    <string name="start">Start</string>
+    <string name="takeoff">"Takeoff"</string>
+    <string name="land">Land</string>
+</resources>
